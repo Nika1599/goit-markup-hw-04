@@ -338,7 +338,7 @@ h2 {
   border: 1px solid #e7e9fc;
 }
 
-.portfolio-section-item :hover,
+.portfolio-section-item:hover,
 .portfolio-section-item:focus {
   box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08),
     0px 1px 1px 0px rgba(46, 47, 66, 0.16),
